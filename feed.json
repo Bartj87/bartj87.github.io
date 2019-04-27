@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "btest",
+    "description": "",
+    "home_page_url": "http://tipsvoortat.be",
+    "feed_url": "http://tipsvoortat.be/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "btest"
+    },
+    "items": [
+        {
+            "id": "http://tipsvoortat.be/btest.html",
+            "url": "http://tipsvoortat.be/btest.html",
+            "title": "Btest",
+            "summary": "btest",
+            "content_html": "btest",
+            "author": {
+                "name": "btest"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-26T19:25:50+02:00",
+            "date_modified": "2019-04-26T19:25:50+02:00"
+        }
+    ]
+}
